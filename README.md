@@ -63,16 +63,6 @@
   - For json files, please head to `data` folder
   - [React boilerplate](https://github.com/react-boilerplate/react-boilerplate) or other is accepted
 
-## Back-end task
-- To fullfil the Front-end requirements, you should implement the following APIs.
-  - Authentication & Registration API **(Mandatory for MeteorJS - Optional for ExpressJS)**
-  - Post APIs **(Must have)**
-  - Comment APIs **(Nice to have)**
-  - User profile APIs **(Nice to have)**
-
-- Additional requirements
-  - All APIs should be RESTful **(Mandatory for ExpressJS)**
-  - API should have a well design
-- Additional information
-  - You can use pre-defined json data as a reference
-  - NodeJS & ExpressJS boilerplate or other is accepted
+## Run Application
+ - apis: **run npm start**
+ - blog: **meteor**
